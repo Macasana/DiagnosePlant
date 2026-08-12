@@ -1,0 +1,2 @@
+# DiagnosePlant
+AI model
